@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Juliana, student of the Web Design Specialist course.
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning HTML, CSS, PHP, Three.js, MySQL and Bootstrap
 - 📫 How to reach me emaildaju@gmail.com
 
 <!---
